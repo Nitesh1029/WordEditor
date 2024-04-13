@@ -45,7 +45,7 @@ function App() {
           <Route exact path="/about">
             <About mode={mode}/>
           </Route>
-          <Route exact path="/">
+          <Route path="/">
             <Textbar showAlert={showAlert} heading="WordEditor - Word Counter, Character Counter, Extra Space Remover" mode={mode}/>
           </Route>
       </Switch>
