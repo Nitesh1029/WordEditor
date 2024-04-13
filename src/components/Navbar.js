@@ -25,9 +25,6 @@ return (
         </div>
       </div>
 </nav>
-
-
     )
   
 };
-
