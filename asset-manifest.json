@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordEditor/static/css/main.4ab0a1df.css",
+    "main.js": "/WordEditor/static/js/main.e9811b6d.js",
+    "static/js/787.8807af26.chunk.js": "/WordEditor/static/js/787.8807af26.chunk.js",
+    "index.html": "/WordEditor/index.html",
+    "main.4ab0a1df.css.map": "/WordEditor/static/css/main.4ab0a1df.css.map",
+    "main.e9811b6d.js.map": "/WordEditor/static/js/main.e9811b6d.js.map",
+    "787.8807af26.chunk.js.map": "/WordEditor/static/js/787.8807af26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab0a1df.css",
+    "static/js/main.e9811b6d.js"
+  ]
+}
